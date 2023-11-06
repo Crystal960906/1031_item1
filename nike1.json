@@ -6,7 +6,14 @@
         "imgUrl": "/img/추천상품더보기_6.jpg",
         "orgprice": "45,0000원",
         "price": "40,500원",
-        "sale": "10% 할인"
+        "sale": "10% 할인",
+        "imgsmall1": "/img/추천상품 더보기1_상세페이지/가운데 슬라이드/item4/1.png",
+        "imgsmall2": "/img/추천상품 더보기1_상세페이지/가운데 슬라이드/item4/2.png",
+        "imgsmall3": "/img/추천상품 더보기1_상세페이지/가운데 슬라이드/item4/3.png",
+        "imgsmall4": "/img/추천상품 더보기1_상세페이지/가운데 슬라이드/item4/4.png",
+        "imgsmall5": "/img/추천상품 더보기1_상세페이지/가운데 슬라이드/item4/5.png",
+        "imgsmall6": "/img/추천상품 더보기1_상세페이지/가운데 슬라이드/item4/6.png",
+        
         },
         {
         "id": 5,
